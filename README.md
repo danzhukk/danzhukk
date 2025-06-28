@@ -9,7 +9,7 @@
 ## 🛠 Навыки и инструменты
 
 - Языки: **Python**, **SQL**
-- Работа с данными: **Pandas**, **PostgreSQL**
+- Работа с данными: **Pandas**, **PostgreSQL** **Scikit-learn** **Scipy** **Statsmodels**
 - Визуализация: **Matplotlib**, **Seaborn**, **Plotly**
 
 ---
